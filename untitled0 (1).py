@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Xp3rGRTeiH8Xce7EUNkiSL0FcGxKxUix
 """
 
-!pip install aiogram
+
 
 import asyncio
 import logging
